@@ -15,8 +15,5 @@
         <item name="android:textStyle">bold</item>
     </style>
 
-
-
-
     <style name="Theme.EjercicioIndividual6Pokemon" parent="Base.Theme.EjercicioIndividual6Pokemon" />
 </resources>
