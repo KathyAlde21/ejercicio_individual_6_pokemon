@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ejercicio individual 6 pokemon</string>
+
+    <string name="sCharmander">Charmander</string>
+    <string name="sBulbasaur">Bulbasaur</string>
+    <string name="sSquirtle">Squirtle</string>
+    <string name="sElegir">Elegir</string>
+
+</resources>
